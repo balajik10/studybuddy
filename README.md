@@ -3,6 +3,8 @@
 
 # StudyBuddy
 </div>
+StudyBuddy is a Django-based web application designed to facilitate collaborative learning. It features user authentication, chat rooms, activity feeds, user profiles, and a responsive UI. The app also integrates Django REST Framework for API development and allows easy customization of user models.
+
 
 ### Cloning the repository
 
